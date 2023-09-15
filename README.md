@@ -1,7 +1,11 @@
 # Virtual Reality
 ## Assignment 4: Augmented Reality
 
-**Name:** Prateek Sengar  
+**Name:** Prateek Sengar
+
+[Project Download Link](https://drive.google.com/file/d/1Mj7FNYAXP-coHsQA0vwILUPIFIo7bdef/view?usp=sharing) 
+
+[Project Demo Video](https://youtu.be/Wx5hniU_-eA) 
 
 ---
 
