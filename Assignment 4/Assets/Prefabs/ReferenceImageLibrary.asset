@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5047744389461586098
+  m_GuidHigh: 6180715715229298056
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5162540089011699855
+      m_GuidHigh: 2244516811288701599
+    m_SerializedTextureGuid:
+      m_GuidLow: 11625020195998424376
+      m_GuidHigh: 16183924970502019786
+    m_Size: {x: 0.19, y: 0.19}
+    m_SpecifySize: 1
+    m_Name: StartFlag
+    m_Texture: {fileID: 2800000, guid: b93a5d385e46a154cada58ba03da98e0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5734548712292560624
+      m_GuidHigh: 14119512432523983515
+    m_SerializedTextureGuid:
+      m_GuidLow: 12273468995026112070
+      m_GuidHigh: 14858359579884324105
+    m_Size: {x: 0.19, y: 0.19}
+    m_SpecifySize: 1
+    m_Name: EndFlag
+    m_Texture: {fileID: 2800000, guid: fa4d4e461f05aa54090507a0507f33ce, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5257322164269599706
+      m_GuidHigh: 6639169617888593570
+    m_SerializedTextureGuid:
+      m_GuidLow: 95844047341856489
+      m_GuidHigh: 5853539816973933913
+    m_Size: {x: 0.19, y: 0.19}
+    m_SpecifySize: 1
+    m_Name: TeleportationFlag1
+    m_Texture: {fileID: 2800000, guid: 3ba5a6e981a70154591d563d73f33b51, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5526055672923048622
+      m_GuidHigh: 4165236231270692756
+    m_SerializedTextureGuid:
+      m_GuidLow: 6121592162416305315
+      m_GuidHigh: 1590192315411206698
+    m_Size: {x: 0.19, y: 0.19}
+    m_SpecifySize: 1
+    m_Name: TeleportationFlag2
+    m_Texture: {fileID: 2800000, guid: 5ca3a4a343a354f42a12a4547c7f1116, type: 3}
