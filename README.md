@@ -1,5 +1,5 @@
 # Virtual Reality
-## Assignment 4: Augmented Reality
+## Augmented Reality
 
 **Name:** Prateek Sengar
 
